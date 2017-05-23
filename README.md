@@ -242,8 +242,6 @@ DataSource: 绘制item
 DataSource：headerView和footerView以及点击回传数据:
 ![区头、区尾、点击.png](http://upload-images.jianshu.io/upload_images/1782677-5356d5927a0664e1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
->demo地址:https://pan.baidu.com/s/1cszxXc (可能不适用大家，但可以简单参考)
-
 ##### 到这我的这个懵逼写日历的过程就完毕了(第一次用makeDown感觉特别好用),下班！
 ##### Bug神在上请保佑所有正在奋斗的90后程序猿们2017永无bug，保佑老猿们步步高升顺顺利利！
                           > 本人QQ:412282037昵称同简书ID.大家互相学习一块奋斗共同进步!
